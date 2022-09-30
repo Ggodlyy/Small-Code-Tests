@@ -9,4 +9,4 @@ let arr = [1, 2, 3];
 let lastEl = arr.poop();
 
 console.log(arr);
-console.log(lastEl);
+
