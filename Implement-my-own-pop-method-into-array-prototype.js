@@ -10,3 +10,4 @@ let lastEl = arr.poop();
 
 console.log(arr);
 
+console.log('test')
